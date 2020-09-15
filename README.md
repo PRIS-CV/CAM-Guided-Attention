@@ -1,4 +1,5 @@
 # CAM-based-spatial-attention-for-FGVC
+## Good Luck!
 ***Result on Birds, Cars, with VGG16 and ResNet18, with pre-training***
 
 
