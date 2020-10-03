@@ -15,7 +15,7 @@
 ***Ablation Studies***
 |Method                      | Backbone       | Birds Acc@1 | 
 |:----:                      | :-:            | :----:      | 
-|baseline                    | ResNet50       |  85.1      |
+|FT                   | ResNet50       |  85.1      |
 |spatial attention *         |ResNet50        |  85.60      |
 |channel attention           |ResNet50        | 85.39     |
 |channel attention+  spatial attention |ResNet50        |  86.86      |
